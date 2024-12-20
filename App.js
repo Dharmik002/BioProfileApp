@@ -14,9 +14,9 @@ const App = () => {
       </View>
       <View style={styles.infoContainer}>
         <Text style={styles.infoTitle}>Contact Information</Text>
-        <Text style={styles.infoText}>Email: dharmik@gmail.com</Text>
-        <Text style={styles.infoText}>Phone: +123 111 1111</Text>
-        <Text style={styles.infoText}>Location: New York, USA</Text>
+        <Text style={styles.infoText}>Email: dharmikmangukiya03@gmail.com</Text>
+        <Text style={styles.infoText}>Phone: +431 276 1261</Text>
+        <Text style={styles.infoText}>Location: Winnipeg, Canada</Text>
       </View>
     </ScrollView>
   );
@@ -25,8 +25,8 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flexGrow: 1,
-    padding: 100,
-    backgroundColor: '#f9f9f9',
+    padding: 50,
+    backgroundColor: '#fff',
   },
   profileContainer: {
     alignItems: 'center',
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
   infoContainer: {
     marginTop: 20,
     padding: 15,
-    backgroundColor: '#fff',
+    backgroundColor: '#3cb371',
     borderRadius: 8,
     shadowColor: '#000',
     shadowOpacity: 0.1,
