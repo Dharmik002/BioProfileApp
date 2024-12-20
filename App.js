@@ -9,7 +9,7 @@ const App = () => {
           style={styles.profileImage}
           source={require('./assets/profile.jpg')}
         />
-        <Text style={styles.name}>Dharmik</Text>
+        <Text style={styles.name}>Dharmik Mangukiya</Text>
         <Text style={styles.bio}>Hi! I'm a software developer with a passion for building intuitive and responsive mobile applications. I love working with React Native.</Text>
       </View>
       <View style={styles.infoContainer}>
@@ -25,7 +25,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flexGrow: 1,
-    padding: 20,
+    padding: 100,
     backgroundColor: '#f9f9f9',
   },
   profileContainer: {
