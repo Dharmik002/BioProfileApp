@@ -15,7 +15,7 @@ const App = () => {
       <View style={styles.infoContainer}>
         <Text style={styles.infoTitle}>Contact Information</Text>
         <Text style={styles.infoText}>Email: dharmik@gmail.com</Text>
-        <Text style={styles.infoText}>Phone: +123 111 1111</Text>
+        <Text style={styles.infoText}>Phone: +123 888 8888</Text>
         <Text style={styles.infoText}>Location: New York, USA</Text>
       </View>
     </ScrollView>
